@@ -1,0 +1,203 @@
+
+.jumbotron {
+    background-image: url(../homepage/homebg.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 500px;
+    padding-top: 100px;
+}
+
+.jumbotron2 {
+    background-image: url(../homepage/aboutbg.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 500px;
+    padding-top: 100px;
+}
+
+.jumbotron3 {
+    background-image: url(../homepage/contactbg.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 500px;
+    padding-top: 100px;
+}
+
+body {
+    background-image: url(../homepage/beige.jpg);
+    background-size: cover;
+    background-position: bottom;
+    font-family: 'Playfair Display', serif;
+    color: #8b4411ff; 
+}
+
+h1{
+    color: white;
+}
+h2{
+    padding: 15px;
+    margin: 0px 0px 0px 0px;
+}
+#abouth2 {
+    color: white;
+}
+.lead {
+    color: white;
+}
+
+h2,h4 {
+    text-align: center;
+}
+
+.card-text {
+    text-align: center;
+}
+
+.card-body {
+    background-color: #8b4411ff;
+    color:white;
+}
+.card-body2 {
+    background-color: rgb(255, 255, 255);
+    padding: 15px;
+}
+.card-body3 {
+    background-color: rgb(255, 255, 255);
+    padding: 15px;
+    color: #8b4411ff;
+}
+
+.cardw-75 {
+    background-color: rgb(255, 255, 255);
+}
+
+.containerpx-lg-5 {
+    padding: 10px;
+    background-color: white;
+
+}
+.aboutcontainerpx-lg-5 {
+    padding: 20px;
+    background-color:#8b4411ff;
+}
+
+.container2{
+    padding-top: 50px;
+}
+
+
+.cta {
+    padding: 15px;
+}
+
+.aboutcta {
+    color: white;
+    padding: 15px;
+}
+
+.mission {
+    text-align: center;
+    color: white;
+}
+
+
+.btn {
+    background-color: #ffa124ff;
+    border: 1px solid #8b4411ff;
+}
+
+.btn:hover {
+    background-color: rgb(211, 127, 18);
+    border: 1px solid #8b4411ff;
+}
+
+a:hover {
+    color: rgb(230, 120, 42);
+}
+a, a.nav-link {
+    color: #8b4411ff;
+}
+
+a.nav-link:hover {
+    color: rgb(230, 120, 42);
+}
+
+
+button.navbar-toggler {
+    background-color: #8b4411ff; 
+    color: white;
+}
+
+.services {
+    padding: 25px 0px;
+
+}
+.about {
+    padding-top: 25px;
+}
+.call {
+    padding-top: 25px;
+}
+
+.containerpx-lg-5.text-center {
+    padding: 20px;
+}
+
+footer  {
+    padding: 25px;
+}
+
+img {
+    height: 300px;
+}
+#png {
+    background-image: url(friends.jpg);
+    position: relative;
+}
+
+#sect2 {
+    background-color: #8b4411ff;
+    color: white;
+    text-align: right;
+    
+}
+
+.form {
+    margin-top: 50px;
+
+}
+
+
+
+.form-control {
+    background-color: #8b4411ff;
+
+}
+
+.form-control::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+    color: white;
+    opacity: 1; /* Firefox */
+  }
+
+  .mission {
+      text-align: center;
+  }
+
+  #navbarNav li a {
+    color: #8b4411ff;
+  }
+
+  #navbarNav li a:hover{
+    color: rgb(230, 120, 42);
+  }
+#logo {
+    height: 60px;
+}
+#img3 {
+    height: 125px;
+    align-items: center;
+    padding-bottom: 10px;
+}
